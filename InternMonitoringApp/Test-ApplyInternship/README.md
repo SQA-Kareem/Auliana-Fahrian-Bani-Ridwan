@@ -2,7 +2,7 @@
 
 | Objek Pengujian   | Hasil      | Lampiran                                                  |
 | ----------------- | ---------- | --------------------------------------------------------- |
-| Search Internship | Berhasil ✔ | [dokumentasi](<TestingSearch_Dimas Ardianto_1214054.pdf>) |
+| Search Internship | Berhasil ✔ | [dokumentasi](<Testing_ApplyInternship_1214049.pdf>) |
 
 # Panduan Penggunaan
 
@@ -33,12 +33,12 @@ Sebelum menggunakan kode ini, pastikan Anda telah memenuhi persyaratan berikut:
 
 ## Penggunaan
 
-1. Buka file `test-searchInternship.py` dan lakukan modifikasi sesuai dengan kebutuhan Anda, seperti URL halaman web yang ingin diuji, informasi login, dll. Sesuaikan path lokasi file sebelumkan menjalankan pengujian.
+1. Buka file `apply_tes.py` dan lakukan modifikasi sesuai dengan kebutuhan Anda, seperti URL halaman web yang ingin diuji, informasi login, dll. Sesuaikan path lokasi file sebelumkan menjalankan pengujian.
 
 2. Jalankan pengujian dengan menjalankan perintah berikut di terminal:
 
    ```
-   python test-searchInternship.py
+   python apply_tes.py
    ```
 
 3. Tunggu hingga pengujian selesai dieksekusi. Hasil pengujian akan ditampilkan di terminal.
