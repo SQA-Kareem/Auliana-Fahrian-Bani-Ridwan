@@ -2,7 +2,7 @@
 
 | Objek Pengujian   | Hasil      | Lampiran                                                  |
 | ----------------- | ---------- | --------------------------------------------------------- |
-| Search Internship | Berhasil ✔ | [dokumentasi](<Testing_ApplyInternship_1214049.pdf>) |
+| Apply Internship | Berhasil ✔ | [dokumentasi](<Testing_ApplyInternship_1214049.pdf>) |
 
 # Panduan Penggunaan
 
